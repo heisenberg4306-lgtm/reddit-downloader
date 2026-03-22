@@ -38,3 +38,5 @@ This project is licensed under the MIT License. See the LICENSE file for details
 
 ## Contributing
 Contributions are welcome! Please open an issue or submit a pull request for any improvements or bug fixes.
+
+![CodeRabbit Pull Request Reviews](https://img.shields.io/coderabbit/prs/github/heisenberg4306-lgtm/reddit-downloader?utm_source=oss&utm_medium=github&utm_campaign=heisenberg4306-lgtm%2Freddit-downloader&labelColor=171717&color=FF570A&link=https%3A%2F%2Fcoderabbit.ai&label=CodeRabbit+Reviews)
